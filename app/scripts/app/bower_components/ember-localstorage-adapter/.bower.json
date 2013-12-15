@@ -1,0 +1,25 @@
+{
+  "name": "ember-localstorage-adapter",
+  "author": "Ryan Florence",
+  "main": "localstorage_adapter.js",
+  "dependencies": {
+    "ember": "~1.0.0",
+    "ember-data": "latest"
+  },
+  "ignore": [
+    "vendor/",
+    "script/",
+    "test/"
+  ],
+  "homepage": "https://github.com/rpflorence/ember-localstorage-adapter",
+  "_release": "eb08b0887b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eb08b0887b9372e4c13b99951eb61eb4dd8632e6"
+  },
+  "_source": "git@github.com:rpflorence/ember-localstorage-adapter.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:rpflorence/ember-localstorage-adapter.git",
+  "_direct": true
+}
